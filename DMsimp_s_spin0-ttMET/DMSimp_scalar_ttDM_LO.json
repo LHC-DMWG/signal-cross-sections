@@ -1,0 +1,163 @@
+{
+    "comment": "Production cross sections for tt+DM via a (pseudo)scalar mediator with DMSimp_s_spin0", 
+    "contact": "michaela.queitsch-maitland at cern.ch", 
+    "reference": "http://feynrules.irmp.ucl.ac.be/wiki/DMsimp", 
+    "initial state": "pp", 
+    "PDF set": "260000", 
+    "tool": "MG_aMC v2.6.5", 
+    "Ecom [GeV]": "13000", 
+    "order": "LO", 
+    "data": [
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "5.98E+00", 
+            "xsec_pb": "1.86E+01"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 20, 
+            "unc_xsec_pb": "3.23E+00", 
+            "xsec_pb": "9.93E+00"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 30, 
+            "unc_xsec_pb": "2.01E+00", 
+            "xsec_pb": "6.15E+00"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 40, 
+            "unc_xsec_pb": "1.36E+00", 
+            "xsec_pb": "4.08E+00"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 50, 
+            "unc_xsec_pb": "9.43E-01", 
+            "xsec_pb": "2.83E+00"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 75, 
+            "unc_xsec_pb": "4.37E-01", 
+            "xsec_pb": "1.28E+00"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 100, 
+            "unc_xsec_pb": "2.26E-01", 
+            "xsec_pb": "6.54E-01"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 150, 
+            "unc_xsec_pb": "7.72E-02", 
+            "xsec_pb": "2.14E-01"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 200, 
+            "unc_xsec_pb": "3.49E-02", 
+            "xsec_pb": "9.15E-02"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 250, 
+            "unc_xsec_pb": "1.95E-02", 
+            "xsec_pb": "4.82E-02"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 300, 
+            "unc_xsec_pb": "1.25E-02", 
+            "xsec_pb": "2.96E-02"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 350, 
+            "unc_xsec_pb": "8.89E-03", 
+            "xsec_pb": "2.02E-02"
+        }, 
+        {
+            "mass_DM_GeV": 1, 
+            "mass_med_GeV": 400, 
+            "unc_xsec_pb": "5.65E-03", 
+            "xsec_pb": "1.24E-02"
+        }, 
+        {
+            "mass_DM_GeV": 10, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "3.01E-02", 
+            "xsec_pb": "9.06E-02"
+        }, 
+        {
+            "mass_DM_GeV": 20, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "7.22E-03", 
+            "xsec_pb": "2.09E-02"
+        }, 
+        {
+            "mass_DM_GeV": 50, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "7.12E-04", 
+            "xsec_pb": "1.88E-03"
+        }, 
+        {
+            "mass_DM_GeV": 75, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "2.45E-04", 
+            "xsec_pb": "5.95E-04"
+        }, 
+        {
+            "mass_DM_GeV": 100, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "1.21E-04", 
+            "xsec_pb": "2.75E-04"
+        }, 
+        {
+            "mass_DM_GeV": 125, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "7.05E-05", 
+            "xsec_pb": "1.53E-04"
+        }, 
+        {
+            "mass_DM_GeV": 150, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "4.44E-05", 
+            "xsec_pb": "9.39E-05"
+        }, 
+        {
+            "mass_DM_GeV": 175, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "2.93E-05", 
+            "xsec_pb": "6.04E-05"
+        }, 
+        {
+            "mass_DM_GeV": 200, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "1.99E-05", 
+            "xsec_pb": "4.04E-05"
+        }, 
+        {
+            "mass_DM_GeV": 250, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "9.73E-06", 
+            "xsec_pb": "1.92E-05"
+        }, 
+        {
+            "mass_DM_GeV": 300, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "5.01E-06", 
+            "xsec_pb": "9.74E-06"
+        }, 
+        {
+            "mass_DM_GeV": 500, 
+            "mass_med_GeV": 10, 
+            "unc_xsec_pb": "5.34E-07", 
+            "xsec_pb": "9.69E-07"
+        }
+    ], 
+    "process_latex": "$pp \\rightarrow t\\bar t \\chi \\chi$"
+}

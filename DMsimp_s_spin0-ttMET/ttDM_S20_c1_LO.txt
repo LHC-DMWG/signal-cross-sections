@@ -1,0 +1,25 @@
+import model DMsimp_s_spin0 
+define p = g u c d s u~ c~ d~ s~ b b~ 
+define j = g u c d s u~ c~ d~ s~ b b~ 
+generate p p > xd xd~ t t~ / a z w+ w- 
+output /nfs/dust/atlas/user/michaela/ttbarMET/ttDM_NLO/output/ttDM_S20_c1_LO 
+launch 
+2 
+done 
+set parton_shower PYTHIA8 
+set pdlabel lhapdf 
+set lhaid 260000 
+set ebeam1 6500 
+set ebeam2 6500 
+set nevents 10000 
+set MXd  1 
+set MY0  20 
+set DECAY 54 Auto 
+set gsxd 1.0 
+set gsd33 1.0 
+set gsu33 1.0 
+set maxjetflavor 5 
+set ptj 20 
+set etaj 5 
+set reweight_pdf True 
+done 
