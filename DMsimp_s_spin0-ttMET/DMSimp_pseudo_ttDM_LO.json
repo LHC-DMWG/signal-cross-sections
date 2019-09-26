@@ -7,157 +7,133 @@
     "tool": "MG_aMC v2.6.5", 
     "Ecom [GeV]": "13000", 
     "order": "LO", 
-    "data": [
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "1.72E-01", 
-            "xsec_pb": "4.36E-01"
+    "data": {
+        "10": {
+            "10": {
+                "unc_xsec_pb": "6.31E-03", 
+                "xsec_pb": "1.50E-02"
+            }, 
+            "200": {
+                "unc_xsec_pb": "5.56E-05", 
+                "xsec_pb": "1.13E-04"
+            }, 
+            "20": {
+                "unc_xsec_pb": "3.41E-03", 
+                "xsec_pb": "7.89E-03"
+            }, 
+            "250": {
+                "unc_xsec_pb": "2.70E-05", 
+                "xsec_pb": "5.37E-05"
+            }, 
+            "150": {
+                "unc_xsec_pb": "1.26E-04", 
+                "xsec_pb": "2.60E-04"
+            }, 
+            "300": {
+                "unc_xsec_pb": "1.40E-05", 
+                "xsec_pb": "2.75E-05"
+            }, 
+            "50": {
+                "unc_xsec_pb": "1.16E-03", 
+                "xsec_pb": "2.52E-03"
+            }, 
+            "1": {
+                "unc_xsec_pb": "1.72E-01", 
+                "xsec_pb": "4.36E-01"
+            }, 
+            "75": {
+                "unc_xsec_pb": "5.89E-04", 
+                "xsec_pb": "1.26E-03"
+            }, 
+            "125": {
+                "unc_xsec_pb": "1.98E-04", 
+                "xsec_pb": "4.14E-04"
+            }, 
+            "100": {
+                "unc_xsec_pb": "3.28E-04", 
+                "xsec_pb": "6.94E-04"
+            }, 
+            "175": {
+                "unc_xsec_pb": "8.25E-05", 
+                "xsec_pb": "1.68E-04"
+            }, 
+            "500": {
+                "unc_xsec_pb": "1.58E-06", 
+                "xsec_pb": "2.92E-06"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 20, 
-            "unc_xsec_pb": "1.59E-01", 
-            "xsec_pb": "4.00E-01"
+        "200": {
+            "1": {
+                "unc_xsec_pb": "4.11E-02", 
+                "xsec_pb": "8.75E-02"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 30, 
-            "unc_xsec_pb": "1.47E-01", 
-            "xsec_pb": "3.65E-01"
+        "20": {
+            "1": {
+                "unc_xsec_pb": "1.59E-01", 
+                "xsec_pb": "4.00E-01"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 40, 
-            "unc_xsec_pb": "1.35E-01", 
-            "xsec_pb": "3.32E-01"
+        "150": {
+            "1": {
+                "unc_xsec_pb": "5.76E-02", 
+                "xsec_pb": "1.28E-01"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 50, 
-            "unc_xsec_pb": "1.25E-01", 
-            "xsec_pb": "3.03E-01"
+        "300": {
+            "1": {
+                "unc_xsec_pb": "2.05E-02", 
+                "xsec_pb": "4.28E-02"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 75, 
-            "unc_xsec_pb": "1.01E-01", 
-            "xsec_pb": "2.40E-01"
+        "400": {
+            "1": {
+                "unc_xsec_pb": "6.14E-03", 
+                "xsec_pb": "1.27E-02"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 100, 
-            "unc_xsec_pb": "8.35E-02", 
-            "xsec_pb": "1.93E-01"
+        "30": {
+            "1": {
+                "unc_xsec_pb": "1.47E-01", 
+                "xsec_pb": "3.65E-01"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 150, 
-            "unc_xsec_pb": "5.76E-02", 
-            "xsec_pb": "1.28E-01"
+        "50": {
+            "1": {
+                "unc_xsec_pb": "1.25E-01", 
+                "xsec_pb": "3.03E-01"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 200, 
-            "unc_xsec_pb": "4.11E-02", 
-            "xsec_pb": "8.75E-02"
+        "40": {
+            "1": {
+                "unc_xsec_pb": "1.35E-01", 
+                "xsec_pb": "3.32E-01"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 250, 
-            "unc_xsec_pb": "2.88E-02", 
-            "xsec_pb": "6.06E-02"
+        "75": {
+            "1": {
+                "unc_xsec_pb": "1.01E-01", 
+                "xsec_pb": "2.40E-01"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 300, 
-            "unc_xsec_pb": "2.05E-02", 
-            "xsec_pb": "4.28E-02"
+        "350": {
+            "1": {
+                "unc_xsec_pb": "1.16E-02", 
+                "xsec_pb": "2.41E-02"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 350, 
-            "unc_xsec_pb": "1.16E-02", 
-            "xsec_pb": "2.41E-02"
+        "100": {
+            "1": {
+                "unc_xsec_pb": "8.35E-02", 
+                "xsec_pb": "1.93E-01"
+            }
         }, 
-        {
-            "mass_DM_GeV": 1, 
-            "mass_med_GeV": 400, 
-            "unc_xsec_pb": "6.14E-03", 
-            "xsec_pb": "1.27E-02"
-        }, 
-        {
-            "mass_DM_GeV": 10, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "6.31E-03", 
-            "xsec_pb": "1.50E-02"
-        }, 
-        {
-            "mass_DM_GeV": 20, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "3.41E-03", 
-            "xsec_pb": "7.89E-03"
-        }, 
-        {
-            "mass_DM_GeV": 50, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "1.16E-03", 
-            "xsec_pb": "2.52E-03"
-        }, 
-        {
-            "mass_DM_GeV": 75, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "5.89E-04", 
-            "xsec_pb": "1.26E-03"
-        }, 
-        {
-            "mass_DM_GeV": 100, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "3.28E-04", 
-            "xsec_pb": "6.94E-04"
-        }, 
-        {
-            "mass_DM_GeV": 125, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "1.98E-04", 
-            "xsec_pb": "4.14E-04"
-        }, 
-        {
-            "mass_DM_GeV": 150, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "1.26E-04", 
-            "xsec_pb": "2.60E-04"
-        }, 
-        {
-            "mass_DM_GeV": 175, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "8.25E-05", 
-            "xsec_pb": "1.68E-04"
-        }, 
-        {
-            "mass_DM_GeV": 200, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "5.56E-05", 
-            "xsec_pb": "1.13E-04"
-        }, 
-        {
-            "mass_DM_GeV": 250, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "2.70E-05", 
-            "xsec_pb": "5.37E-05"
-        }, 
-        {
-            "mass_DM_GeV": 300, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "1.40E-05", 
-            "xsec_pb": "2.75E-05"
-        }, 
-        {
-            "mass_DM_GeV": 500, 
-            "mass_med_GeV": 10, 
-            "unc_xsec_pb": "1.58E-06", 
-            "xsec_pb": "2.92E-06"
+        "250": {
+            "1": {
+                "unc_xsec_pb": "2.88E-02", 
+                "xsec_pb": "6.06E-02"
+            }
         }
-    ], 
+    }, 
     "process_latex": "$pp \\rightarrow t\\bar t \\chi \\chi$"
 }
